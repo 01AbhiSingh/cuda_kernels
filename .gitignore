@@ -1,0 +1,13 @@
+# Compiled executables
+add
+hello
+scalar
+thread
+
+# Generic build outputs
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
