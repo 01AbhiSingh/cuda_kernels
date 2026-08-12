@@ -3,7 +3,7 @@ add
 hello
 scalar
 thread
-
+saxpy
 # Generic build outputs
 *.o
 *.out
